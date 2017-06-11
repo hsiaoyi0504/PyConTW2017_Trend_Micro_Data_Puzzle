@@ -1,0 +1,4 @@
+# Anonymous Data Classification 匿名資料的機器學習挑戰
+
+Feature Engineering一向是傳統機器學習中最需要創意的部份，融合了對各領域的了解，再加上一點小靈感，往往是產生新feature的最佳途徑。但是當資料集的內容及待解的問題都轉化成匿名的資訊時，還有什麼Feature Engineering的手法可以使用嗎?
+
