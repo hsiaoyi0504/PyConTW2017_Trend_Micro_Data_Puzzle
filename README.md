@@ -1,6 +1,6 @@
 # PyConTW 2017 Trend Micro Data Puzzle
 
-This repo contains all source codes I used in [Trend Micro Data Puzzle](https://docs.google.com/document/d/1velo-U2rlqoU1g-_RoWNOBAaYDZGS3eGn5n1nzSJL4o/edit#)
+This repo contains all source codes I used in [Trend Micro Data Puzzle](https://docs.google.com/document/d/1velo-U2rlqoU1g-_RoWNOBAaYDZGS3eGn5n1nzSJL4o/edit#). It's very simple usage of scikit-learn.
 
 Dataset is also available [here](https://tbrain.trendmicro.com.tw/Datasets/DownloadList).
 
