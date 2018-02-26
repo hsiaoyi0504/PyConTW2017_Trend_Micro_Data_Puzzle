@@ -2,7 +2,7 @@
 
 This repo contains all source codes I used in [Trend Micro Data Puzzle](https://docs.google.com/document/d/1velo-U2rlqoU1g-_RoWNOBAaYDZGS3eGn5n1nzSJL4o/edit#). It's very simple usage of scikit-learn.
 
-Dataset is also available [here](https://tbrain.trendmicro.com.tw/Datasets/DownloadList).
+Dataset is also available [here](https://tbrain.trendmicro.com.tw/Datasets/DownloadList) (趨勢科技機器學習小挑戰).
 
 I got first prize in this data puzzle.
 
